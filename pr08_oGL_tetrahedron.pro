@@ -1,8 +1,7 @@
+QT += opengl
 
-SOURCES       +=  main.cpp \
+SOURCES +=  main.cpp \
     tetrahedron.cpp
-
-QT += widgets
 
 HEADERS += \
     tetrahedron.h
