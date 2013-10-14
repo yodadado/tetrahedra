@@ -12,7 +12,7 @@ int main(int argc, char *argv[])
         cerr << "This system has no OpenGL support" << endl;
         return 1;
     }
-
+	//skuska
     Tetrahedron tetrahedron;
     tetrahedron.setWindowTitle(QObject::tr("Tetrahedron"));
     tetrahedron.resize(300, 300);
