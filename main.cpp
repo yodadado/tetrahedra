@@ -1,6 +1,6 @@
 #include <QApplication>
 #include <iostream>
-
+//
 #include "tetrahedron.h"
 
 using namespace std;
