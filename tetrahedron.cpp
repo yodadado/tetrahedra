@@ -1,6 +1,6 @@
 
 #include "tetrahedron.h"
-
+//
 
 // constructor Tetrahedron
 Tetrahedron::Tetrahedron(QWidget *parent)
