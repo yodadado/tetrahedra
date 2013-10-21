@@ -4,7 +4,7 @@
 #include <QtOpenGL>
 #include <QGLWidget>
 #include <GL/glu.h>
-
+//
 class Tetrahedron : public QGLWidget
 {
     Q_OBJECT
